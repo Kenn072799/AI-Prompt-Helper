@@ -1,0 +1,10 @@
+# Secrets — never commit dev credentials
+appsettings.Development.json
+
+# Build outputs
+bin/
+obj/
+
+# Rider / VS
+.vs/
+*.user
